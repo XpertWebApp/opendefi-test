@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.react-responsive-modal-overlay {
+    background: rgba(0, 0, 0, 0.22) !important;
+}
+.react-tabs__tab--selected{
+    background-color: #0089FF !important;
+    color: #fff !important;
+    border-radius: 5px !important;
+}
